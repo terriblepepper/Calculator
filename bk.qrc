@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/iamges">
+        <file>bk.png</file>
+    </qresource>
+</RCC>
